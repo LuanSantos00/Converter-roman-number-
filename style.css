@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+#div_form{
+    width: 500px;
+    padding: 50px;
+    margin-left: 33.33%;
+    margin-top: 65px;
+    z-index: -1;
+  -webkit-box-shadow: 0px 0px 8px 2px #000000;
+  -moz-box-shadow: 0px 0px 8px 2px #000000;
+  box-shadow: 0px 0px 4px 2px #000000;
+}
